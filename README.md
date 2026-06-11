@@ -1,8 +1,6 @@
 # Hi, I'm Arnaud ! 👋
 
-I am a **Software Engineering Student** at École de technologie supérieure (ÉTS) in Montréal, with a background in low-level systems architecture, automated trading infrastructure, and industrial data systems. 
-
-I bridge the gap between heavy-duty engineering and business intelligence—whether that means designing modular algorithmic trading engines, writing physical ADAS simulators, or optimizing enterprise data pipelines in heavy industry.
+I'm a **Software Engineering Student** at École de technologie supérieure (ÉTS) in Montréal, with a background in low-level systems architecture, automated trading infrastructure, and industrial data systems. 
 
 ---
 
