@@ -28,19 +28,6 @@ I bridge the gap between heavy-duty engineering and business intelligence—whet
 
 ---
 
-## 🚀 Highlighted Work & Projects
-
-### **[AlgoETS – Algorithmic Trading Platform](https://github.com/AlgoETS)**
-*Software Developer & Fund Team Member*
-* **Architecture:** Designed clean, decoupled, and modular code to parse real-time financial market data streams and execute swift algorithmic orders.
-* **DevOps:** Leveraged professional Git workflows to ensure high-quality code integration and robust platform stability.
-
-### **[Adaptive Cruise Control (ACC) Simulation](https://github.com/arnaudjeann/ACC-Simulation)**
-*Driver Assistance Systems (ADAS) Project in C++ & Python*
-* **The Reality Check:** Built a control engine that moves away from idealized mathematics to integrate real-world physical limitations and environmental noise.
-
----
-
 ## 🌍 Languages
 * 🇨🇦 **French:** Native
 * 🇨🇦 **English:** Functional / Professional
