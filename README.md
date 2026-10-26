@@ -1,4 +1,3 @@
-<!-- ═══════════════ HEADER ANIMÉ (vagues) ═══════════════ -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:1e293b,100:090d16&height=240&section=header&text=ARNAUD%20JEAN&fontSize=58&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Software%20Engineering%20" width="100%" alt="Arnaud Jean Header" />
 </p>
@@ -12,24 +11,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/arnaudjean21"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:arnaudjean21@icloud.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/arnaudjean21?tab=followers"><img src="https://img.shields.io/github/followers/arnaudjean21?style=for-the-badge&logo=github&color=0ea5e9&labelColor=0f172a" alt="GitHub followers" /></a>
 </p>
-
-<!-- ═══════════════ GRAPHIQUE DE TRADING ANIMÉ (SVG maison, voir assets/trading-live.svg) ═══════════════ -->
-<p align="center">
-  <img src="./assets/trading-live.svg" width="100%" alt="Animated simulated trading feed" />
-</p>
-
-<!--
-  🎬 AJOUTER UNE VIDÉO (démo d'un projet, screen record, etc.)
-  1. Ouvre ce README dans l'éditeur web de GitHub (icône crayon).
-  2. Glisse-dépose ton fichier .mp4 dans le texte : GitHub l'héberge et génère une URL
-     du genre https://github.com/user-attachments/assets/xxxxxxxx
-  3. Colle cette URL SEULE sur sa propre ligne ici — GitHub l'affiche en lecteur vidéo.
-  (Les balises <video> avec une URL externe sont bloquées dans les README.)
--->
-
----
 
 ## 💼 What I'm Up To
 
@@ -71,7 +53,7 @@ const arnaud = {
 ## 🖥️ Boot Sequence
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=800&color=38BDF8&multiline=true&repeat=true&width=620&height=230&lines=%24+whoami;arnaud_jean+%E2%80%94+Software+Engineering+%40+%C3%89TS;%24+cat+focus.txt;low-level+systems+%C2%B7+trading+%C2%B7+data+%C2%B7+automation;%24+cat+experience.txt;ArcelorMittal+Canada+%E2%80%94+Summer+2026+%E2%9C%94;%24+echo+%24NEXT;Kontron+Canada+%E2%80%94+Winter+2027+%E2%9C%94" alt="Terminal boot sequence" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=800&color=38BDF8&multiline=true&repeat=true&width=620&height=230&lines=%24+whoami;arnaud_jean+%E2%80%94+Software+Engineering+%40+%C3%89TS;%24+cat+focus.txt;low-level+systems+%C2%B7+trading+%C2%B7+data+%C2%B7+automation;%24+cat+experience.txt;Kontron+Canada+%E2%80%94+Winter+2027+%E2%9C%94;%24+echo+%24NEXT;ArcelorMittal+Canada+%E2%80%94+Summer+2026+%E2%9C%94" alt="Terminal boot sequence" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,50:1e293b,100:0ea5e9&height=120&section=footer" width="100%" alt="Footer" />
