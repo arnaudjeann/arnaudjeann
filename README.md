@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=true&width=720&lines=%3E_+Software+Engineering+Student+%40+%C3%89TS;%3E_+Low-Level+Systems+%26+Automated+Trading;%3E_+Data+Analytics+%26+Industrial+Automation;%3E_+Incoming+Intern+%40+Kontron+Canada;%3E_+Clean+architecture.+High-frequency+data." alt="Terminal Typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=true&width=720&lines=%3E_+Software+Engineering+Student+%40+%C3%89TS;%3E_+Low-Level+Systems+%26+Automated+Trading;%3E_+Data+Analytics+%26+Industrial+Automation" alt="Terminal Typing" />
   </a>
 </p>
 
